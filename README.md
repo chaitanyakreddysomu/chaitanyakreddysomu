@@ -48,14 +48,14 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 ---
 
 ### Languages & Tools
-### 🎨 Frontend
+### Frontend
 
 | HTML | CSS | JavaScript | Bootstrap | Tailwind | React |
 |------|-----|------------|-----------|----------|-------|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/> |
 
 
-### ⚙️ Backend
+### Backend
 
 | Python | Django | Node.js | Express |
 |--------|--------|---------|---------|
@@ -63,7 +63,7 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
  
 
-### 🗄️ Databases
+### Databases
 
 | MongoDB | MySQL |
 |---------|-------|
