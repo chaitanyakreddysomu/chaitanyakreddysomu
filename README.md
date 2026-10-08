@@ -22,8 +22,8 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 ### About Me
 - All of my repositories are available at  <a href="https://github.com/chaitanyakreddysomu?tab=repositories">GitHub Repositories</a>
 
-- Ask me about **Python, Django & MERN Stack**
-
+- Ask me about **Java, Python, JavaScript, MERN Stack, Selenium & Playwright**
+- 
 - Reach me at **chaitanyakreddysomu@gmail.com**
 
 <p align="left">
@@ -35,19 +35,23 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 ### Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/chaitanyakumarreddysomu" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=8808&format=png&color=228BE6"
-    height="30" width="30"/>
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Chaitanya%20Kumar%20Reddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
-  <a href="https://x.com/chaitureddy77" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=58329&format=png&color=228BE6"
-    height="30" width="30" />
-  </a>
-
 </p>
 
 ---
 
 ### Languages & Tools
+
+### Programming Languages
+
+| Java | Python | JavaScript |
+|------|--------|------------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> |
+
 ### Frontend
 
 | HTML | CSS | JavaScript | Bootstrap | Tailwind | React |
@@ -57,11 +61,15 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 ### Backend
 
-| Python | Django | Node.js | Express |
-|--------|--------|---------|---------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/> |
+| Django | Express |
+|--------|---------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/> |
 
- 
+### Testing
+
+| Selenium | Playwright |
+|----------|------------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" width="40"/> | 
 
 ### Databases
 
