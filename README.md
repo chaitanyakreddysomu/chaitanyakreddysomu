@@ -61,7 +61,7 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 | Django | Express |
 |--------|---------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/> | <img src="https://github.com/chaitanyakreddysomu/chaitanyakreddysomu/blob/main/animatedIcons/icons8-express-js-50.png" width="40"/> |
 
 ### Testing
 
