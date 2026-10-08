@@ -50,7 +50,7 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 | Java | Python | JavaScript |
 |------|--------|------------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> |
+| <img src="https://img.icons8.com/animated/50/java-coffee-cup-logo.gif" width="50" alt="Java"/> | <img src="https://img.icons8.com/animated/50/python.gif" width="50" alt="Python"/> | <img src="https://img.icons8.com/animated/50/javascript.gif" width="50" alt="JavaScript"/> |
 
 ### Frontend
 
