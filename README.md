@@ -50,15 +50,13 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 | Java | Python | JavaScript |
 |------|--------|------------|
-| <img src="https://img.icons8.com/animated/50/java-coffee-cup-logo.gif" width="50" alt="Java"/> | <img src="https://img.icons8.com/animated/50/python.gif" width="50" alt="Python"/> | <img src="https://img.icons8.com/animated/50/javascript.gif" width="50" alt="JavaScript"/> |
+| <img src="https://github.com/chaitanyakreddysomu/chaitanyakreddysomu/blob/main/animatedIcons/icons8-java.gif" width="50" alt="Java"/> | <img src="https://github.com/chaitanyakreddysomu/chaitanyakreddysomu/blob/main/animatedIcons/icons8-python.gif" width="50" alt="Python"/> | <img src="https://github.com/chaitanyakreddysomu/chaitanyakreddysomu/blob/main/animatedIcons/icons8-js.gif" width="50" alt="JavaScript"/> |
 
 ### Frontend
 
-| HTML | CSS | JavaScript | Bootstrap | Tailwind | React |
-|------|-----|------------|-----------|----------|-------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/> |
-
-
+| HTML | CSS | JavaScript | Bootstrap | Tailwind | React | React Native |
+|------|-----|------------|-----------|----------|-------|--------------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/> | <img src="https://github.com/chaitanyakreddysomu/chaitanyakreddysomu/blob/main/animatedIcons/icons8-js.gif" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/> | <img src="https://github.com/chaitanyakreddysomu/chaitanyakreddysomu/blob/main/animatedIcons/icons8-react.gif" width="40"/> | <img src="https://github.com/chaitanyakreddysomu/chaitanyakreddysomu/blob/main/animatedIcons/icons8-react-native.gif" width="40"/> |
 ### Backend
 
 | Django | Express |
@@ -75,7 +73,7 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 | MongoDB | MySQL |
 |---------|-------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/> |
+| <img src="https://github.com/chaitanyakreddysomu/chaitanyakreddysomu/blob/main/animatedIcons/icons8-database.gif" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/> |
 
 
 ### 🛠️ Tools
